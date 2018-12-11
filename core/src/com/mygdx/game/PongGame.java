@@ -7,7 +7,7 @@ import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
-public class PongGame extends ApplicationAdapter {
+public class PongGame extends ApplicationAdapter  {
 	SpriteBatch batch;
 	final int CATCH_BALL_BONUS = 100;
 	Ball ball;
